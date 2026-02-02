@@ -1,0 +1,55 @@
+{
+  "$schema": "https://raw.githubusercontent.com/modelcontextprotocol/servers/main/schema/config.json",
+  "_comment": "DevOps and Platform Engineering configuration",
+  "mcpServers": {
+    "filesystem": {
+      "_description": "Access to infrastructure code",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "${HOME}/infrastructure"
+      ]
+    },
+    "github": {
+      "_description": "GitHub for GitOps workflows",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_TOKEN}"
+      }
+    },
+    "kubernetes": {
+      "_description": "Multi-cluster Kubernetes management",
+      "_note": "Install: go install github.com/strowk/mcp-k8s-go@latest",
+      "command": "mcp-k8s-go",
+      "args": []
+    },
+    "docker": {
+      "_description": "Container management",
+      "_note": "Install: go install github.com/QuantGeekDev/docker-mcp@latest",
+      "command": "docker-mcp",
+      "args": []
+    },
+    "aws": {
+      "_description": "AWS services integration",
+      "_note": "Requires AWS CLI configured with credentials",
+      "command": "npx",
+      "args": ["-y", "@aws/mcp-server-aws"],
+      "env": {
+        "AWS_PROFILE": "${AWS_PROFILE:-default}",
+        "AWS_REGION": "${AWS_REGION:-us-east-1}"
+      }
+    },
+    "memory": {
+      "_description": "Remember infrastructure context",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-memory"]
+    },
+    "sequential-thinking": {
+      "_description": "Structured reasoning for incident response",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-sequentialthinking"]
+    }
+  }
+}

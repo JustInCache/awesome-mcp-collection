@@ -1,0 +1,47 @@
+{
+  "$schema": "https://raw.githubusercontent.com/modelcontextprotocol/servers/main/schema/config.json",
+  "_comment": "Frontend developer configuration (React, Vue, Next.js, etc.)",
+  "mcpServers": {
+    "filesystem": {
+      "_description": "Access to your frontend projects",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "${HOME}/projects"
+      ]
+    },
+    "github": {
+      "_description": "GitHub for version control",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_TOKEN}"
+      }
+    },
+    "puppeteer": {
+      "_description": "Browser automation and screenshot testing",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-puppeteer"]
+    },
+    "figma": {
+      "_description": "Figma design file access",
+      "_note": "Requires Figma API token",
+      "command": "npx",
+      "args": ["-y", "figma-mcp-server"],
+      "env": {
+        "FIGMA_ACCESS_TOKEN": "${FIGMA_ACCESS_TOKEN}"
+      }
+    },
+    "fetch": {
+      "_description": "Fetch API documentation and resources",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-fetch"]
+    },
+    "memory": {
+      "_description": "Remember component patterns and decisions",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-memory"]
+    }
+  }
+}

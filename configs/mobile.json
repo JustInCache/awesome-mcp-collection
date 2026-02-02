@@ -1,0 +1,58 @@
+{
+  "$schema": "https://raw.githubusercontent.com/modelcontextprotocol/servers/main/schema/config.json",
+  "_comment": "Mobile developer configuration (iOS and Android)",
+  "mcpServers": {
+    "filesystem": {
+      "_description": "Access to mobile project files",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "${HOME}/mobile-projects"
+      ]
+    },
+    "github": {
+      "_description": "GitHub for version control",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_TOKEN}"
+      }
+    },
+    "xcode": {
+      "_description": "Xcode project and simulator management (macOS only)",
+      "_note": "Install: npm i -g xcode-mcp-server",
+      "command": "xcode-mcp-server",
+      "args": []
+    },
+    "ios-simulator": {
+      "_description": "iOS Simulator automation",
+      "_note": "Install: npm i -g mobile-mcp",
+      "command": "mobile-mcp",
+      "args": ["--platform", "ios"]
+    },
+    "android": {
+      "_description": "Android device/emulator control",
+      "_note": "Install: pip install droidmind",
+      "command": "uvx",
+      "args": ["droidmind"],
+      "env": {
+        "ANDROID_HOME": "${ANDROID_HOME}"
+      }
+    },
+    "firebase": {
+      "_description": "Firebase backend services",
+      "_note": "Requires Firebase service account",
+      "command": "npx",
+      "args": ["-y", "firebase-mcp-server"],
+      "env": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "${FIREBASE_CREDENTIALS_PATH}"
+      }
+    },
+    "memory": {
+      "_description": "Remember app architecture decisions",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-memory"]
+    }
+  }
+}

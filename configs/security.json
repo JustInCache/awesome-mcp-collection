@@ -1,0 +1,69 @@
+{
+  "$schema": "https://raw.githubusercontent.com/modelcontextprotocol/servers/main/schema/config.json",
+  "_comment": "Security engineer and DevSecOps configuration",
+  "mcpServers": {
+    "filesystem": {
+      "_description": "Read-only access for security audits",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "${HOME}/projects"
+      ]
+    },
+    "github": {
+      "_description": "GitHub for security scanning and code review",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_TOKEN}"
+      }
+    },
+    "snyk": {
+      "_description": "Snyk vulnerability scanning",
+      "_note": "Requires Snyk token: https://snyk.io",
+      "command": "npx",
+      "args": ["-y", "snyk-mcp-server"],
+      "env": {
+        "SNYK_TOKEN": "${SNYK_TOKEN}"
+      }
+    },
+    "virustotal": {
+      "_description": "VirusTotal for file/URL analysis",
+      "_note": "Install: npm i -g mcp-virustotal",
+      "command": "mcp-virustotal",
+      "args": [],
+      "env": {
+        "VIRUSTOTAL_API_KEY": "${VIRUSTOTAL_API_KEY}"
+      }
+    },
+    "shodan": {
+      "_description": "Shodan for internet-connected device search",
+      "_note": "Install: npm i -g mcp-shodan",
+      "command": "mcp-shodan",
+      "args": [],
+      "env": {
+        "SHODAN_API_KEY": "${SHODAN_API_KEY}"
+      }
+    },
+    "sentry": {
+      "_description": "Sentry for error tracking and security incidents",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-sentry"],
+      "env": {
+        "SENTRY_AUTH_TOKEN": "${SENTRY_AUTH_TOKEN}",
+        "SENTRY_ORG": "${SENTRY_ORG}"
+      }
+    },
+    "memory": {
+      "_description": "Track security findings across sessions",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-memory"]
+    },
+    "sequential-thinking": {
+      "_description": "Structured threat analysis",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-sequentialthinking"]
+    }
+  }
+}
