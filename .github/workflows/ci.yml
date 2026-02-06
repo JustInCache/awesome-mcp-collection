@@ -45,14 +45,6 @@ jobs:
           globs: |
             **/*.md
             !temp/**
-          config: |
-            {
-              "default": true,
-              "MD013": false,
-              "MD033": false,
-              "MD041": false,
-              "MD024": false
-            }
 
   # Check for broken links
   check-links:
