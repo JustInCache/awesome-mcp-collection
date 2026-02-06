@@ -391,10 +391,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## ☕ Support
+
+If this repo saved you time or sparked an idea, consider buying me a coffee!
+
+<a href="https://buymeacoffee.com/connectankush">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+</a>
+
+---
+
 <p align="center">
   Made with ❤️ by the community
   <br>
-  <a href="https://github.com/your-username/awesome-mcp-collection/stargazers">⭐ Star</a> •
-  <a href="https://github.com/your-username/awesome-mcp-collection/fork">🍴 Fork</a> •
-  <a href="https://github.com/your-username/awesome-mcp-collection/issues">🐛 Issues</a>
+  <a href="https://github.com/JustInCache/awesome-mcp-collection/stargazers">⭐ Star</a> •
+  <a href="https://github.com/JustInCache/awesome-mcp-collection/fork">🍴 Fork</a> •
+  <a href="https://github.com/JustInCache/awesome-mcp-collection/issues">🐛 Issues</a>
 </p>
