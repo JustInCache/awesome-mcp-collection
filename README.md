@@ -357,6 +357,16 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ---
 
+## ☕ Support
+
+If this repo saved you time or sparked an idea, consider buying me a coffee!
+
+<a href="https://buymeacoffee.com/connectankush">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+</a>
+
+---
+
 ## 📈 Stats
 
 | Metric | Count |
@@ -388,16 +398,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Official Servers Repository](https://github.com/modelcontextprotocol/servers)
 - [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
-
----
-
-## ☕ Support
-
-If this repo saved you time or sparked an idea, consider buying me a coffee!
-
-<a href="https://buymeacoffee.com/connectankush">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-</a>
 
 ---
 
