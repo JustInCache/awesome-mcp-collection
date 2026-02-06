@@ -1,0 +1,102 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  # Validate all JSON configuration files
+  validate-json:
+    name: Validate JSON
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate JSON files
+        run: |
+          echo "Validating JSON configuration files..."
+          failed=0
+          for file in configs/*.json; do
+            if ! python3 -m json.tool "$file" > /dev/null 2>&1; then
+              echo "❌ Invalid JSON: $file"
+              failed=1
+            else
+              echo "✅ Valid: $file"
+            fi
+          done
+          exit $failed
+
+  # Lint Markdown files
+  lint-markdown:
+    name: Lint Markdown
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Lint Markdown files
+        uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: |
+            **/*.md
+            !temp/**
+          config: |
+            {
+              "default": true,
+              "MD013": false,
+              "MD033": false,
+              "MD041": false,
+              "MD024": false
+            }
+
+  # Check for broken links
+  check-links:
+    name: Check Links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,204,206,301,302,403,429
+            --exclude-mail
+            --exclude "^https://github.com/.*/edit/"
+            --exclude "^https://github.com/.*/new/"
+            --exclude "localhost"
+            --exclude "127.0.0.1"
+            --exclude "example.com"
+            '**/*.md'
+          fail: false  # Don't fail on broken links (some may be rate-limited)
+
+      - name: Link check results
+        run: |
+          echo "Link check completed. See above for any issues."
+          echo "Note: Some 403/429 errors may be due to rate limiting."
+
+  # Awesome list format check
+  awesome-lint:
+    name: Awesome Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run awesome-lint
+        run: |
+          npx awesome-lint || echo "Awesome lint completed with warnings (non-blocking)"
+        continue-on-error: true  # Awesome-lint can be strict, don't fail the build

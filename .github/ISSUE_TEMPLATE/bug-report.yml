@@ -1,0 +1,51 @@
+name: Bug Report
+description: Report broken links, incorrect information, or other issues
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the collection! Please describe the issue below.
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: What kind of issue is this?
+      options:
+        - Broken link
+        - Incorrect information
+        - Outdated server entry
+        - Configuration issue
+        - Documentation error
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Where is the issue? (file path or section)
+      placeholder: "README.md - Databases section"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the issue
+      placeholder: "The link to XYZ server returns 404..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: fix
+    attributes:
+      label: Suggested Fix
+      description: If you know how to fix it, please describe
+      placeholder: "The correct URL is..."
+    validations:
+      required: false

@@ -1,0 +1,97 @@
+name: Add MCP Server
+description: Suggest a new MCP server to add to the collection
+title: "[Add Server]: "
+labels: ["addition", "server"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new MCP server! Please fill out the information below.
+
+  - type: input
+    id: server-name
+    attributes:
+      label: Server Name
+      description: Name of the MCP server
+      placeholder: "e.g., GitHub MCP Server"
+    validations:
+      required: true
+
+  - type: input
+    id: repo-url
+    attributes:
+      label: Repository URL
+      description: GitHub/GitLab repository URL
+      placeholder: "https://github.com/org/repo"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category does this server belong to?
+      options:
+        - Development & Version Control
+        - Cloud & Infrastructure
+        - Databases
+        - Web & Search
+        - Productivity & Collaboration
+        - Finance & Fintech
+        - Security & DevSecOps
+        - AI & ML
+        - Platform-Specific
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Implementation Language
+      description: What language is the server written in?
+      options:
+        - TypeScript
+        - Python
+        - Go
+        - Rust
+        - C#
+        - Java
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: official
+    attributes:
+      label: Official Server?
+      description: Is this an official server from the service provider?
+      options:
+        - "Yes - Official"
+        - "No - Community"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Brief description of what the server does (50-100 chars)
+      placeholder: "Full GitHub integration: repos, issues, PRs, Actions"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      description: Please verify the following
+      options:
+        - label: The server is open source
+          required: true
+        - label: The repository has a README with installation instructions
+          required: true
+        - label: I have tested the server and it works
+          required: true
+        - label: This server is not already in the list
+          required: true
