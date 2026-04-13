@@ -160,6 +160,7 @@ Access the web, scrape content, and search the internet.
 | **Bright Data** 🎖️ | [luminati-io/brightdata-mcp](https://github.com/luminati-io/brightdata-mcp) | ⭐ 400+ | TS | Enterprise web scraping and data extraction |
 | **Perplexity** | [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity) | ⭐ 200+ | Python | Real-time web search with citations |
 | **Apify** 🎖️ | [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) | ⭐ 300+ | TS | 3,000+ pre-built web scrapers |
+| **Helium** | [connerlambden/helium-mcp](https://github.com/connerlambden/helium-mcp) | New | Python | Real-time news with bias scoring across 5,000+ sources, AI-powered options pricing, and live market data |
 
 ### 📊 Productivity & Collaboration
 
