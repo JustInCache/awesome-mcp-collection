@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/justincache-awesome-mcp-collection-badge.png)](https://mseep.ai/app/justincache-awesome-mcp-collection)
+
 # 🔌 Awesome MCP Servers
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
