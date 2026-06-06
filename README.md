@@ -190,7 +190,7 @@ Handle payments, trading, and financial data.
 | **Alpaca** | [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) | ⭐ 100+ | Python | Stock trading and portfolio management |
 | **CoinGecko** | Community | Various | TS | Cryptocurrency market data |
 | **Yahoo Finance** | [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) | ⭐ 100+ | Python | Stock data and financial analysis |
-| **TWZRD Agent Intel** | [twzrd-sol/wzrd-final](https://github.com/twzrd-sol/wzrd-final) | New | Python | Solana x402 agent trust scoring — free preflight checks + paid signed V5 trust receipts |
+| **TWZRD Agent Intel** | [twzrd-sol/wzrd-final](https://intel.twzrd.xyz) | New | Python | Solana x402 agent trust scoring — free preflight checks + paid signed V5 trust receipts |
 
 ### 🔒 Security & DevSecOps
 
