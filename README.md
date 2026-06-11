@@ -190,6 +190,7 @@ Handle payments, trading, and financial data.
 | **Alpaca** | [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) | ⭐ 100+ | Python | Stock trading and portfolio management |
 | **CoinGecko** | Community | Various | TS | Cryptocurrency market data |
 | **Yahoo Finance** | [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) | ⭐ 100+ | Python | Stock data and financial analysis |
+| **The Stall** | [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) | New | JS | 191 pay-per-call data tools (stocks, DeFi, options, crypto, SEC filings, macro) — no API key, USDC micropayments via x402 |
 
 ### 🔒 Security & DevSecOps
 
