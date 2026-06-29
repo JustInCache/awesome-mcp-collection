@@ -163,6 +163,7 @@ Access the web, scrape content, and search the internet.
 | **Perplexity** | [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity) | ⭐ 200+ | Python | Real-time web search with citations |
 | **Apify** 🎖️ | [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) | ⭐ 300+ | TS | 3,000+ pre-built web scrapers |
 | **Helium** | [connerlambden/helium-mcp](https://github.com/connerlambden/helium-mcp) | New | Python | Real-time news with bias scoring across 5,000+ sources, AI-powered options pricing, and live market data |
+| **BuyWhere** | [BuyWhere/buywhere-mcp](https://github.com/BuyWhere/buywhere-mcp) | ⭐ 50+ | TS | Cross-border product search API for AI shopping agents — 8 tools, 150M+ products across SG, MY, TH, VN, PH, ID, US merchants |
 
 ### 📊 Productivity & Collaboration
 
