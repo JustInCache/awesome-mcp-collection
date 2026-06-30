@@ -117,6 +117,7 @@ Essential tools for software development workflows.
 | **Xcode** | [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server) | 🍎 | TS | iOS/macOS development: project management, builds, simulators |
 | **Code Executor** | [pydantic/mcp-run-python](https://github.com/pydantic/pydantic-ai) | Official | Python | Execute Python code safely in isolated sandboxes |
 | **Docker** | [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) | ⭐ 500+ | Go | Container management, image operations, compose support |
+| **ax** | [Necmttn/ax](https://github.com/Necmttn/ax) | New | TS | Read-only queries over local coding-agent history, sessions, tools, and costs |
 
 ### ☁️ Cloud & Infrastructure
 
