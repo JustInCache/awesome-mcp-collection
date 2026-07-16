@@ -9,7 +9,7 @@
 
 > **The most comprehensive, curated collection of Model Context Protocol (MCP) servers.**
 > 
-> Unlike other lists, we focus on **quality over quantity** — featuring battle-tested, actively maintained servers with real-world configurations and developer-focused organization.
+> Unlike other lists, we focus on **quality over quantity** - featuring battle-tested, actively maintained servers with real-world configurations and developer-focused organization.
 
 <p align="center">
   <a href="#-quick-start">Quick Start</a> •
@@ -24,7 +24,7 @@
 
 ## 📖 What is MCP?
 
-**Model Context Protocol (MCP)** is an open standard that enables AI assistants to securely connect with external tools, data sources, and services. Think of it as a **universal plugin system for AI** — allowing Claude, Cursor, VS Code Copilot, and other AI tools to interact with your development environment, databases, APIs, and more.
+**Model Context Protocol (MCP)** is an open standard that enables AI assistants to securely connect with external tools, data sources, and services. Think of it as a **universal plugin system for AI** - allowing Claude, Cursor, VS Code Copilot, and other AI tools to interact with your development environment, databases, APIs, and more.
 
 ### Why MCP Matters
 
@@ -164,7 +164,7 @@ Access the web, scrape content, and search the internet.
 | **Perplexity** | [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity) | ⭐ 200+ | Python | Real-time web search with citations |
 | **Apify** 🎖️ | [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) | ⭐ 300+ | TS | 3,000+ pre-built web scrapers |
 | **Helium** | [connerlambden/helium-mcp](https://github.com/connerlambden/helium-mcp) | New | Python | Real-time news with bias scoring across 5,000+ sources, AI-powered options pricing, and live market data |
-| **2s.io** | [2s-io/sdk](https://github.com/2s-io/sdk) | New | TS | Keyless pay-per-call API for agents: 570+ live endpoints — web answers, patents, case law, KYB & sanctions screening, geo, weather, identity crosswalks, plus a chat/image AI gateway. Pays per request in USDC via x402, no signup or API key |
+| **2s.io** | [2s-io/sdk](https://github.com/2s-io/sdk) | New | TS | Keyless pay-per-call API for agents: 570+ live endpoints - web answers, patents, case law, KYB & sanctions screening, geo, weather, identity crosswalks, plus a chat/image AI gateway. Pays per request in USDC via x402, no signup or API key |
 | **Xquik** | [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | ⭐ 155 | JavaScript | X/Twitter data extraction, account monitoring, webhooks, and MCP tools |
 
 ### 📊 Productivity & Collaboration
@@ -193,7 +193,7 @@ Handle payments, trading, and financial data.
 | **Alpaca** | [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) | ⭐ 100+ | Python | Stock trading and portfolio management |
 | **CoinGecko** | Community | Various | TS | Cryptocurrency market data |
 | **Yahoo Finance** | [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) | ⭐ 100+ | Python | Stock data and financial analysis |
-| **The Stall** | [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) | New | JS | 191 pay-per-call data tools (stocks, DeFi, options, crypto, SEC filings, macro) — no API key, USDC micropayments via x402 |
+| **The Stall** | [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) | New | JS | 191 pay-per-call data tools (stocks, DeFi, options, crypto, SEC filings, macro) - no API key, USDC micropayments via x402 |
 
 ### 🔒 Security & DevSecOps
 
