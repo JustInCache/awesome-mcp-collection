@@ -117,6 +117,7 @@ Essential tools for software development workflows.
 | **Xcode** | [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server) | 🍎 | TS | iOS/macOS development: project management, builds, simulators |
 | **Code Executor** | [pydantic/mcp-run-python](https://github.com/pydantic/pydantic-ai) | Official | Python | Execute Python code safely in isolated sandboxes |
 | **Docker** | [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) | ⭐ 500+ | Go | Container management, image operations, compose support |
+| **ax** | [Necmttn/ax](https://github.com/Necmttn/ax) | New | TS | Read-only queries over local coding-agent history, sessions, tools, and costs |
 
 ### ☁️ Cloud & Infrastructure
 
@@ -163,7 +164,8 @@ Access the web, scrape content, and search the internet.
 | **Perplexity** | [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity) | ⭐ 200+ | Python | Real-time web search with citations |
 | **Apify** 🎖️ | [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) | ⭐ 300+ | TS | 3,000+ pre-built web scrapers |
 | **Helium** | [connerlambden/helium-mcp](https://github.com/connerlambden/helium-mcp) | New | Python | Real-time news with bias scoring across 5,000+ sources, AI-powered options pricing, and live market data |
-| **Xquik** | [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | ⭐ 112 | JavaScript | X/Twitter data extraction, account monitoring, webhooks, and MCP tools |
+| **2s.io** | [2s-io/sdk](https://github.com/2s-io/sdk) | New | TS | Keyless pay-per-call API for agents: 570+ live endpoints — web answers, patents, case law, KYB & sanctions screening, geo, weather, identity crosswalks, plus a chat/image AI gateway. Pays per request in USDC via x402, no signup or API key |
+| **Xquik** | [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | ⭐ 155 | JavaScript | X/Twitter data extraction, account monitoring, webhooks, and MCP tools |
 
 ### 📊 Productivity & Collaboration
 
@@ -191,6 +193,7 @@ Handle payments, trading, and financial data.
 | **Alpaca** | [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) | ⭐ 100+ | Python | Stock trading and portfolio management |
 | **CoinGecko** | Community | Various | TS | Cryptocurrency market data |
 | **Yahoo Finance** | [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) | ⭐ 100+ | Python | Stock data and financial analysis |
+| **The Stall** | [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) | New | JS | 191 pay-per-call data tools (stocks, DeFi, options, crypto, SEC filings, macro) — no API key, USDC micropayments via x402 |
 
 ### 🔒 Security & DevSecOps
 
@@ -212,9 +215,12 @@ Enhance AI capabilities and integrate with ML platforms.
 |--------|------|-------|------|-------------|
 | **OpenAI** | [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) | ⭐ 400+ | TS | Chat with GPT models directly |
 | **LangFuse** 🎖️ | [langfuse/mcp-server-langfuse](https://github.com/langfuse/langfuse) | ⭐ 300+ | Python | LLM observability and prompt management |
+| **LLM Pulse** 🎖️ | [LLM-Pulse/llmpulse-mcp](https://github.com/LLM-Pulse/llmpulse-mcp) | New | JS | Brand visibility analytics across ChatGPT, Gemini, Perplexity |
 | **Hugging Face** | [evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) | ⭐ 200+ | TS | Access HF Spaces and models |
 | **Replicate** | [awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) | ⭐ 100+ | TS | Image generation via Replicate API |
+| **RunAPI** | [runapi-ai/mcp](https://github.com/runapi-ai/mcp) | New | TS | Run AI image, video, music/audio, text-to-speech, and other model API jobs |
 | **Context7** 🎖️ | [upstash/context7](https://github.com/upstash/context7) | ⭐ 500+ | TS | Up-to-date documentation for LLMs |
+| **NotFair** | [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | ⭐ 2.9k+ | TS | Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP |
 
 ### 📱 Platform-Specific
 
@@ -413,4 +419,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <a href="https://github.com/JustInCache/awesome-mcp-collection/issues">🐛 Issues</a>
 </p>
 
-> Last updated: 2026-06-11 23:56 UTC
+> Last updated: 2026-07-16 15:50 UTC
