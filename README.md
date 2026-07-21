@@ -193,6 +193,7 @@ Handle payments, trading, and financial data.
 | **CoinGecko** | Community | Various | TS | Cryptocurrency market data |
 | **Yahoo Finance** | [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) | ⭐ 100+ | Python | Stock data and financial analysis |
 | **The Stall** | [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) | New | JS | 191 pay-per-call data tools (stocks, DeFi, options, crypto, SEC filings, macro) — no API key, USDC micropayments via x402 |
+| **AgentServices** | [vbkotecha/agentservices](https://github.com/vbkotecha/agentservices) | ⭐ 50+ | Python | 54 crypto/market data services (97 endpoints, 37 MCP tools) with x402 on-chain payments |
 
 ### 🔒 Security & DevSecOps
 
