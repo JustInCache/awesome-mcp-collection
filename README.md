@@ -205,6 +205,7 @@ Scan, audit, and secure your applications.
 | **GitGuardian** | [gitguardian/mcp-server](https://docs.gitguardian.com/) | Official | Python | Secret detection with 500+ detectors |
 | **VirusTotal** | [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal) | ⭐ 100+ | TS | URL/file scanning and threat analysis |
 | **Shodan** | [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) | ⭐ 100+ | TS | Internet-connected device search |
+| **SysKnife** | [lacs-project/sysknife](https://github.com/lacs-project/sysknife) | New | Rust | Security-hardened MCP for Linux sysadmin — 189 typed actions instead of shell strings, Ed25519 hash-chain audit log, one-time approval receipts, automatic rollback |
 
 ### 🤖 AI & ML
 
