@@ -180,6 +180,7 @@ Connect to your daily tools.
 | **Obsidian** | [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) | ⭐ 600+ | TS | Vault access, note management, search |
 | **Google Workspace** | [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) | ⭐ 300+ | Python | Calendar, Drive, Gmail, Docs, Sheets |
 | **Todoist** | Various | Community | TS | Task management integration |
+| **Taisly** 🎖️ | [taisly/agent](https://github.com/taisly/agent) | ⭐ 298 | JS | Publish and schedule short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook via remote OAuth or local MCP |
 
 ### 💰 Finance & Fintech
 
