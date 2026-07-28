@@ -194,6 +194,7 @@ Handle payments, trading, and financial data.
 | **Yahoo Finance** | [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) | ⭐ 100+ | Python | Stock data and financial analysis |
 | **The Stall** | [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) | New | JS | 191 pay-per-call data tools (stocks, DeFi, options, crypto, SEC filings, macro) — no API key, USDC micropayments via x402 |
 
+| **Dark-Moon** | [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | | Py | Autonomous AI pentest for web, API, Active Directory and Kubernetes (GPL-3.0). |
 ### 🔒 Security & DevSecOps
 
 Scan, audit, and secure your applications.
