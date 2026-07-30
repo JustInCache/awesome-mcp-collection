@@ -206,6 +206,7 @@ Scan, audit, and secure your applications.
 | **GitGuardian** | [gitguardian/mcp-server](https://docs.gitguardian.com/) | Official | Python | Secret detection with 500+ detectors |
 | **VirusTotal** | [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal) | ⭐ 100+ | TS | URL/file scanning and threat analysis |
 | **Shodan** | [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) | ⭐ 100+ | TS | Internet-connected device search |
+| **DomScan** | [estevecastells/domscan-mcp](https://github.com/estevecastells/domscan-mcp) | New | JS | Domain, DNS, WHOIS/RDAP, TLS, subdomain, email and brand intelligence |
 
 ### 🤖 AI & ML
 
