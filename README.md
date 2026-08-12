@@ -409,6 +409,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Official MCP Documentation](https://modelcontextprotocol.io)
 - [MCP Specification](https://spec.modelcontextprotocol.io)
 - [Official Servers Repository](https://github.com/modelcontextprotocol/servers)
+- [MCP Config Doctor fixtures](https://github.com/supoju/mcp-config-doctor-fixtures) - Redaction-safe Codex, Gemini CLI, and VS Code MCP client configuration examples for validator tests, documentation, and bug reports.
 - [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 
