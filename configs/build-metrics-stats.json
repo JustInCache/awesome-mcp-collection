@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-20T14:50:34Z",
+  "last_updated": "2026-08-20T15:19:11Z",
   "repository": "awesome-mcp-collection",
   "owner": "JustInCache",
   "visitors": {
-    "total": 24893,
-    "last_recorded": "2026-08-20T14:50:34Z"
+    "total": 24967,
+    "last_recorded": "2026-08-20T15:19:11Z"
   },
   "build": {
     "status": "passing",
-    "checked_at": "2026-08-20T14:50:34Z",
+    "checked_at": "2026-08-20T15:19:11Z",
     "uptime_days": 596
   }
 }
