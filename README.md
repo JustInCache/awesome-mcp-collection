@@ -222,6 +222,7 @@ Enhance AI capabilities and integrate with ML platforms.
 | **Hugging Face** | [evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) | ⭐ 200+ | TS | Access HF Spaces and models |
 | **Replicate** | [awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) | ⭐ 100+ | TS | Image generation via Replicate API |
 | **RunAPI** | [runapi-ai/mcp](https://github.com/runapi-ai/mcp) | New | TS | Run AI image, video, music/audio, text-to-speech, and other model API jobs |
+| **SandBase CLI** | [sandbaseai/cli](https://github.com/sandbaseai/cli) | New | TS | Discover and run 2,000+ AI models through a six-tool local MCP bridge |
 | **Context7** 🎖️ | [upstash/context7](https://github.com/upstash/context7) | ⭐ 500+ | TS | Up-to-date documentation for LLMs |
 | **NotFair** | [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | ⭐ 2.9k+ | TS | Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP |
 
