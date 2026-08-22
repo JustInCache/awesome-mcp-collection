@@ -422,4 +422,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <a href="https://github.com/JustInCache/awesome-mcp-collection/issues">🐛 Issues</a>
 </p>
 
-> Last updated: 2026-08-22 20:28 UTC
+> Last updated: 2026-08-22 20:48 UTC
