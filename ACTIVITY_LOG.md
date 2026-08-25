@@ -402,3 +402,4 @@
 [2026-08-25T01:44:29Z] Scheduled sync completed — repository in clean state
 [2026-08-25T02:44:41Z] Scheduled sync completed — repository in clean state
 [2026-08-25T03:32:04Z] Scheduled sync completed — repository in clean state
+[2026-08-25T04:10:58Z] Dependency snapshot verified — no drift detected
