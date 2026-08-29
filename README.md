@@ -224,6 +224,7 @@ Enhance AI capabilities and integrate with ML platforms.
 | **RunAPI** | [runapi-ai/mcp](https://github.com/runapi-ai/mcp) | New | TS | Run AI image, video, music/audio, text-to-speech, and other model API jobs |
 | **Context7** 🎖️ | [upstash/context7](https://github.com/upstash/context7) | ⭐ 500+ | TS | Up-to-date documentation for LLMs |
 | **NotFair** | [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | ⭐ 2.9k+ | TS | Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP |
+| **SandBase CLI** | [sandbaseai/cli](https://github.com/sandbaseai/cli) | ⭐ 67 | TS | Local MCP server for discovering and running 2,000+ AI models through six tools |
 
 ### 📱 Platform-Specific
 
