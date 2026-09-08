@@ -163,6 +163,7 @@ Access the web, scrape content, and search the internet.
 | **Bright Data** 🎖️ | [luminati-io/brightdata-mcp](https://github.com/luminati-io/brightdata-mcp) | ⭐ 400+ | TS | Enterprise web scraping and data extraction |
 | **Perplexity** | [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity) | ⭐ 200+ | Python | Real-time web search with citations |
 | **Apify** 🎖️ | [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) | ⭐ 300+ | TS | 3,000+ pre-built web scrapers |
+| **Price Tracker** | [theluckystrike/mcp-price-tracker](https://github.com/theluckystrike/mcp-servers/tree/main/servers/price-tracker) | New | TS | Reads prices from any shop page (JSON-LD, Open Graph, microdata, visible-price fallback), keeps local price history, alerts on target price |
 | **Helium** | [connerlambden/helium-mcp](https://github.com/connerlambden/helium-mcp) | New | Python | Real-time news with bias scoring across 5,000+ sources, AI-powered options pricing, and live market data |
 | **2s.io** | [2s-io/sdk](https://github.com/2s-io/sdk) | New | TS | Keyless pay-per-call API for agents: 570+ live endpoints — web answers, patents, case law, KYB & sanctions screening, geo, weather, identity crosswalks, plus a chat/image AI gateway. Pays per request in USDC via x402, no signup or API key |
 
@@ -179,6 +180,8 @@ Connect to your daily tools.
 | **Confluence** | [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | ⭐ 500+ | Python | Documentation and knowledge base |
 | **Obsidian** | [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) | ⭐ 600+ | TS | Vault access, note management, search |
 | **Google Workspace** | [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) | ⭐ 300+ | Python | Calendar, Drive, Gmail, Docs, Sheets |
+| **Time Tracker** | [theluckystrike/mcp-time-tracker](https://github.com/theluckystrike/mcp-servers/tree/main/servers/time-tracker) | New | TS | Billable time tracking with a running timer, per-project hourly rates, weekly reports, CSV export, invoice line generation |
+| **Spreadsheet** | [theluckystrike/mcp-spreadsheet](https://github.com/theluckystrike/mcp-servers/tree/main/servers/spreadsheet) | New | TS | Read, filter, compute and convert local spreadsheets (xlsx, xlsm, xlsb, xls, ods, csv, tsv), never overwrites the source unless asked |
 | **Todoist** | Various | Community | TS | Task management integration |
 | **Taisly** 🎖️ | [taisly/agent](https://github.com/taisly/agent) | ⭐ 298 | JS | Publish and schedule short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook via remote OAuth or local MCP |
 
@@ -189,6 +192,7 @@ Handle payments, trading, and financial data.
 | Server | Repo | Stars | Lang | Description |
 |--------|------|-------|------|-------------|
 | **Stripe** 🎖️ | [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) | ⭐ 800+ | Python/TS | Payments, subscriptions, invoices |
+| **Invoice** | [theluckystrike/mcp-invoice](https://github.com/theluckystrike/mcp-servers/tree/main/servers/invoice) | New | TS | Local invoicing: sequential invoice numbers, discounts, per-rate VAT lines, A4 PDF rendering, payment and overdue tracking, all stored as JSON on your machine |
 | **Polygon.io** 🎖️ | [polygon-io/mcp_polygon](https://github.com/polygon-io/mcp_polygon) | ⭐ 200+ | Python | Stock, forex, and crypto market data |
 | **Alpaca** | [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) | ⭐ 100+ | Python | Stock trading and portfolio management |
 | **CoinGecko** | Community | Various | TS | Cryptocurrency market data |
