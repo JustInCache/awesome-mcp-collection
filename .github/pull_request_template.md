@@ -27,6 +27,9 @@
 - [ ] My changes follow the existing style
 - [ ] Links are working
 - [ ] JSON files (if modified) are valid
+- [ ] ⭐ I have starred this repository
+
+⭐ **Please star this repository before your PR is approved.** ⭐
 
 ## Additional Notes
 
