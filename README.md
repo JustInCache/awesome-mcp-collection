@@ -119,6 +119,7 @@ Essential tools for software development workflows.
 | **Docker** | [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) | ⭐ 500+ | Go | Container management, image operations, compose support |
 | **ax** | [Necmttn/ax](https://github.com/Necmttn/ax) | New | TS | Read-only queries over local coding-agent history, sessions, tools, and costs |
 | **LWC (Local Wiki CLI)** | [JanYork/llm-wiki-cli](https://github.com/JanYork/llm-wiki-cli) | ⭐ 30+ | Rust | Local project memory with bounded read-only MCP retrieval and source citations |
+| **ContextStream** | [contextstream/mcp-server](https://github.com/contextstream/mcp-server) | ⭐ 43 | Rust | Shared project context for AI coding agents: hosted MCP, code search, decisions, lessons, plans |
 
 ### ☁️ Cloud & Infrastructure
 
