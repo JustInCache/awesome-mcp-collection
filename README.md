@@ -181,6 +181,7 @@ Connect to your daily tools.
 | **Google Workspace** | [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) | ⭐ 300+ | Python | Calendar, Drive, Gmail, Docs, Sheets |
 | **Todoist** | Various | Community | TS | Task management integration |
 | **Taisly** 🎖️ | [taisly/agent](https://github.com/taisly/agent) | ⭐ 298 | JS | Publish and schedule short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook via remote OAuth or local MCP |
+| **BulkPublish** | [azeemkafridi/bulkpublish-api](https://github.com/azeemkafridi/bulkpublish-api) | New | TS | API and hosted MCP for adapting, scheduling, and publishing approved social-media content |
 
 ### 💰 Finance & Fintech
 
@@ -224,7 +225,6 @@ Enhance AI capabilities and integrate with ML platforms.
 | **RunAPI** | [runapi-ai/mcp](https://github.com/runapi-ai/mcp) | New | TS | Run AI image, video, music/audio, text-to-speech, and other model API jobs |
 | **Context7** 🎖️ | [upstash/context7](https://github.com/upstash/context7) | ⭐ 500+ | TS | Up-to-date documentation for LLMs |
 | **NotFair** | [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | ⭐ 2.9k+ | TS | Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP |
-| **BulkPublish** | [azeemkafridi/bulkpublish-api](https://github.com/azeemkafridi/bulkpublish-api) | New | TS | API and hosted MCP for adapting, scheduling, and publishing approved social-media content |
 
 ### 📱 Platform-Specific
 
