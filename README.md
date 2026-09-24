@@ -211,6 +211,7 @@ Scan, audit, and secure your applications.
 | **Shodan** | [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) | ⭐ 100+ | TS | Internet-connected device search |
 | **DomScan** | [estevecastells/domscan-mcp](https://github.com/estevecastells/domscan-mcp) | New | JS | Domain, DNS, WHOIS/RDAP, TLS, subdomain, email and brand intelligence |
 | **SysKnife** | [lacs-project/sysknife](https://github.com/lacs-project/sysknife) | New | Rust | Linux sysadmin via typed actions, signed audit chain, human approval receipts |
+| **Movahedi Privacy API** | [movahedi-ca/movahedi-ca](https://github.com/movahedi-ca/movahedi-ca) | New | TS | Free anonymous remote MCP server for Canadian privacy compliance: enforcement cases, privacy glossary, Quebec Law 25 |
 
 ### 🤖 AI & ML
 
