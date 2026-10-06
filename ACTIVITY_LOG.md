@@ -480,3 +480,4 @@
 [2026-10-04T07:26:12Z] Scheduled sync completed — repository in clean state
 [2026-10-05T08:53:33Z] Scheduled sync completed — repository in clean state
 [2026-10-06T16:41:16Z] Scheduled sync completed — repository in clean state
+[2026-10-06T21:13:37Z] Dependency snapshot verified — no drift detected
