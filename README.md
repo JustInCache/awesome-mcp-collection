@@ -196,6 +196,7 @@ Handle payments, trading, and financial data.
 | **Yahoo Finance** | [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) | ⭐ 100+ | Python | Stock data and financial analysis |
 | **The Stall** | [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) | New | JS | 191 pay-per-call data tools (stocks, DeFi, options, crypto, SEC filings, macro) — no API key, USDC micropayments via x402 |
 | **AgentServices** | [vbkotecha/agentservices](https://github.com/vbkotecha/agentservices) | ⭐ 50+ | Python | 54 crypto/market data services (97 endpoints, 37 MCP tools) with x402 on-chain payments |
+| **HostDeFi** | Hosted remote: `hostdefi.com/api/v1/mcp` (official registry `io.github.verixiaapps/hostdefi-x402`) | — | HTTP | Free `scan_token` + x402 USDC pay-per-call: A+–F token risk verdicts, deep reports, Solana pre-grad signals, wallet exposure, Polymarket odds |
 
 | **Dark-Moon** | [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | | Py | Autonomous AI pentest for web, API, Active Directory and Kubernetes (GPL-3.0). |
 ### 🔒 Security & DevSecOps
