@@ -182,6 +182,7 @@ Connect to your daily tools.
 | **Google Workspace** | [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) | ⭐ 300+ | Python | Calendar, Drive, Gmail, Docs, Sheets |
 | **Todoist** | Various | Community | TS | Task management integration |
 | **Taisly** 🎖️ | [taisly/agent](https://github.com/taisly/agent) | ⭐ 298 | JS | Publish and schedule short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook via remote OAuth or local MCP |
+| **Aident Loadout** | [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) | New | TS | Remote MCP (streamable HTTP, OAuth): connect Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ Skills through one setup. Endpoint `https://loadout.aident.ai/mcp` · [Website](https://aident.ai) |
 
 ### 💰 Finance & Fintech
 
