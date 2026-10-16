@@ -133,6 +133,7 @@ Deploy, manage, and monitor cloud resources.
 | **Terraform** 🎖️ | [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) | ⭐ 2k+ | Go | **HashiCorp Official.** Registry, providers, modules, IaC generation |
 | **Cloudflare** 🎖️ | [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | ⭐ 1k+ | TS | Workers, KV, R2, D1, and edge infrastructure |
 | **Pulumi** 🎖️ | [pulumi/mcp-server](https://github.com/pulumi/mcp-server) | ⭐ 300+ | TS | Infrastructure as Code operations and Cloud API |
+| **SolidPing** | [fclairamb/solidping](https://github.com/fclairamb/solidping) | New | Go | Self-hostable uptime monitor: create, run and diagnose checks, incidents, status pages |
 
 ### 💾 Databases
 
