@@ -227,6 +227,7 @@ Enhance AI capabilities and integrate with ML platforms.
 | **OrkasVideoStudio** | [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | New | TS | Compose and edit videos through a local MCP server and editable timelines |
 | **Context7** 🎖️ | [upstash/context7](https://github.com/upstash/context7) | ⭐ 500+ | TS | Up-to-date documentation for LLMs |
 | **NotFair** | [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | ⭐ 2.9k+ | TS | Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP |
+| **Zerouter** 🎖️ | [ZerouterAI/zerouter-mcp](https://github.com/ZerouterAI/zerouter-mcp) | New | TS | AI API gateway: Claude, GPT, Gemini, Grok, Kimi via one OpenAI-compatible key, plus API pricing |
 
 ### 📱 Platform-Specific
 
