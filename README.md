@@ -211,6 +211,7 @@ Scan, audit, and secure your applications.
 | **Shodan** | [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) | ⭐ 100+ | TS | Internet-connected device search |
 | **DomScan** | [estevecastells/domscan-mcp](https://github.com/estevecastells/domscan-mcp) | New | JS | Domain, DNS, WHOIS/RDAP, TLS, subdomain, email and brand intelligence |
 | **SysKnife** | [lacs-project/sysknife](https://github.com/lacs-project/sysknife) | New | Rust | Linux sysadmin via typed actions, signed audit chain, human approval receipts |
+| **BountyGuard** | [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard) | New | Python | Pre-flight GitHub bounty security scanner & on-chain Proof-of-Escrow verifier |
 
 ### 🤖 AI & ML
 
