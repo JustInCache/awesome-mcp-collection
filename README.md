@@ -164,6 +164,7 @@ Access the web, scrape content, and search the internet.
 | **Bright Data** 🎖️ | [luminati-io/brightdata-mcp](https://github.com/luminati-io/brightdata-mcp) | ⭐ 400+ | TS | Enterprise web scraping and data extraction |
 | **Perplexity** | [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity) | ⭐ 200+ | Python | Real-time web search with citations |
 | **Apify** 🎖️ | [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) | ⭐ 300+ | TS | 3,000+ pre-built web scrapers |
+| **Pangolinfo Amazon Data MCP** | [Pangolin-spg/amazon-data-mcp](https://github.com/Pangolin-spg/amazon-data-mcp) | ⭐ 1 | TS | Amazon product, search, reviews, and seller research via 19 MCP tools |
 | **Helium** | [connerlambden/helium-mcp](https://github.com/connerlambden/helium-mcp) | New | Python | Real-time news with bias scoring across 5,000+ sources, AI-powered options pricing, and live market data |
 | **2s.io** | [2s-io/sdk](https://github.com/2s-io/sdk) | New | TS | Keyless pay-per-call API for agents: 570+ live endpoints — web answers, patents, case law, KYB & sanctions screening, geo, weather, identity crosswalks, plus a chat/image AI gateway. Pays per request in USDC via x402, no signup or API key |
 
