@@ -110,6 +110,7 @@ Essential tools for software development workflows.
 
 | Server | Repo | Stars | Lang | Description |
 |--------|------|-------|------|-------------|
+| **Docsy** | [getremcp/docsy-plugin](https://github.com/getremcp/docsy-plugin) | — | Hosted | Read-only OAuth MCP to find versioned developer documentation with official source links. |
 | **GitHub** 🎖️ | [github/github-mcp-server](https://github.com/github/github-mcp-server) | ⭐ 15k+ | TS | **The gold standard.** Full GitHub integration: repos, issues, PRs, Actions, code scanning. OAuth + remote MCP support. |
 | **GitLab** | [modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers) | Official | TS | GitLab platform integration for projects, MRs, and CI/CD |
 | **Playwright** 🎖️ | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | ⭐ 11k+ | TS | **Microsoft Official.** Browser automation using accessibility snapshots for reliability |
