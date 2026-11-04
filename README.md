@@ -187,6 +187,7 @@ Connect to your daily tools.
 
 Handle payments, trading, and financial data.
 
+| **Agent Payment Node** | [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) | 0 | TS | Local macOS CLI and stdio MCP payments with foreground owner approval for signing. |
 | Server | Repo | Stars | Lang | Description |
 |--------|------|-------|------|-------------|
 | **Stripe** 🎖️ | [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) | ⭐ 800+ | Python/TS | Payments, subscriptions, invoices |
