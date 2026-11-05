@@ -223,6 +223,7 @@ Enhance AI capabilities and integrate with ML platforms.
 | **LLM Pulse** 🎖️ | [LLM-Pulse/llmpulse-mcp](https://github.com/LLM-Pulse/llmpulse-mcp) | New | JS | Brand visibility analytics across ChatGPT, Gemini, Perplexity |
 | **Hugging Face** | [evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) | ⭐ 200+ | TS | Access HF Spaces and models |
 | **Replicate** | [awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) | ⭐ 100+ | TS | Image generation via Replicate API |
+| **InkRoom Prompts MCP** | [InkRoom-AI/inkroom-prompts](https://github.com/InkRoom-AI/inkroom-prompts) | New | JS | Search public image prompts with original examples and rewrite text via local MCP |
 | **RunAPI** | [runapi-ai/mcp](https://github.com/runapi-ai/mcp) | New | TS | Run AI image, video, music/audio, text-to-speech, and other model API jobs |
 | **OrkasVideoStudio** | [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | New | TS | Compose and edit videos through a local MCP server and editable timelines |
 | **Context7** 🎖️ | [upstash/context7](https://github.com/upstash/context7) | ⭐ 500+ | TS | Up-to-date documentation for LLMs |
