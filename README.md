@@ -193,6 +193,7 @@ Handle payments, trading, and financial data.
 | **Polygon.io** 🎖️ | [polygon-io/mcp_polygon](https://github.com/polygon-io/mcp_polygon) | ⭐ 200+ | Python | Stock, forex, and crypto market data |
 | **Alpaca** | [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) | ⭐ 100+ | Python | Stock trading and portfolio management |
 | **CoinGecko** | Community | Various | TS | Cryptocurrency market data |
+| **BlockVectra** | [blockvectra/mcp](https://github.com/blockvectra/mcp) | New | TS | Keyless EVM docs and chain discovery, including Robinhood; indexed Data API requires a key |
 | **Yahoo Finance** | [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) | ⭐ 100+ | Python | Stock data and financial analysis |
 | **The Stall** | [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) | New | JS | 191 pay-per-call data tools (stocks, DeFi, options, crypto, SEC filings, macro) — no API key, USDC micropayments via x402 |
 | **AgentServices** | [vbkotecha/agentservices](https://github.com/vbkotecha/agentservices) | ⭐ 50+ | Python | 54 crypto/market data services (97 endpoints, 37 MCP tools) with x402 on-chain payments |
