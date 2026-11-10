@@ -225,6 +225,7 @@ Enhance AI capabilities and integrate with ML platforms.
 | **Replicate** | [awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) | ⭐ 100+ | TS | Image generation via Replicate API |
 | **RunAPI** | [runapi-ai/mcp](https://github.com/runapi-ai/mcp) | New | TS | Run AI image, video, music/audio, text-to-speech, and other model API jobs |
 | **OrkasVideoStudio** | [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | New | TS | Compose and edit videos through a local MCP server and editable timelines |
+| **Imagera** | [alexadams6ix/imagera-skills](https://github.com/alexadams6ix/imagera-skills) | New | Remote | Generate and edit images, video, voice and music through a hosted MCP server (OAuth) |
 | **Context7** 🎖️ | [upstash/context7](https://github.com/upstash/context7) | ⭐ 500+ | TS | Up-to-date documentation for LLMs |
 | **NotFair** | [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | ⭐ 2.9k+ | TS | Claude Code agent skills for SEO, Google Ads, and Meta Ads; connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP |
 
