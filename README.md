@@ -133,6 +133,7 @@ Deploy, manage, and monitor cloud resources.
 | **Terraform** 🎖️ | [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) | ⭐ 2k+ | Go | **HashiCorp Official.** Registry, providers, modules, IaC generation |
 | **Cloudflare** 🎖️ | [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | ⭐ 1k+ | TS | Workers, KV, R2, D1, and edge infrastructure |
 | **Pulumi** 🎖️ | [pulumi/mcp-server](https://github.com/pulumi/mcp-server) | ⭐ 300+ | TS | Infrastructure as Code operations and Cloud API |
+| **CloudGPU** | [mrhy7176/cloudgpu-mcp](https://github.com/mrhy7176/cloudgpu-mcp) | New | JS | Quote, rent and shut down per-minute cloud GPUs; run jobs with spend and time limits |
 
 ### 💾 Databases
 
