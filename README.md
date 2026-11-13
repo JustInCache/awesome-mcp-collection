@@ -236,6 +236,7 @@ Mobile, desktop, and specialized platforms.
 |--------|------|-------|------|-------------|
 | **iOS Simulator** | [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) | ⭐ 300+ | TS | iOS/Android automation and testing |
 | **Android** | [hyperb1iss/droidmind](https://github.com/hyperb1iss/droidmind) | ⭐ 200+ | Python | Android device control via ADB |
+| **Oh My Android** | [ateymoori/oh-my-android](https://github.com/ateymoori/oh-my-android) | | Swift | Android emulator/phone control for AI agents: screenshots, UI tree in dp, taps, logcat |
 | **Home Assistant** | [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant) | ⭐ 400+ | Python | Smart home automation |
 | **Blender** | [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | ⭐ 600+ | Python | 3D modeling and animation |
 | **Unity** | [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) | ⭐ 200+ | C# | Game development integration |
