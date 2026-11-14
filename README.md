@@ -180,6 +180,7 @@ Connect to your daily tools.
 | **Confluence** | [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | ⭐ 500+ | Python | Documentation and knowledge base |
 | **Obsidian** | [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) | ⭐ 600+ | TS | Vault access, note management, search |
 | **Google Workspace** | [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) | ⭐ 300+ | Python | Calendar, Drive, Gmail, Docs, Sheets |
+| **theluckystrike MCP servers** | [theluckystrike/mcp-servers](https://github.com/theluckystrike/mcp-servers) | New | TS | 46 local office servers: invoices, timesheets, spreadsheets. Install via .mcpb bundle or hosted URL |
 | **Todoist** | Various | Community | TS | Task management integration |
 | **Taisly** 🎖️ | [taisly/agent](https://github.com/taisly/agent) | ⭐ 298 | JS | Publish and schedule short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook via remote OAuth or local MCP |
 
