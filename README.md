@@ -182,6 +182,7 @@ Connect to your daily tools.
 | **Google Workspace** | [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) | ⭐ 300+ | Python | Calendar, Drive, Gmail, Docs, Sheets |
 | **Todoist** | Various | Community | TS | Task management integration |
 | **Taisly** 🎖️ | [taisly/agent](https://github.com/taisly/agent) | ⭐ 298 | JS | Publish and schedule short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook via remote OAuth or local MCP |
+| **API-Supp** | [yehudashtein/wa-bridge-mcp](https://github.com/yehudashtein/wa-bridge-mcp) | Python | Local MCP client that connects WhatsApp to Claude or ChatGPT via the API-Supp bridge. |
 
 ### 💰 Finance & Fintech
 
