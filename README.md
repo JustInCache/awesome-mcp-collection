@@ -196,6 +196,7 @@ Handle payments, trading, and financial data.
 | **Yahoo Finance** | [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) | ⭐ 100+ | Python | Stock data and financial analysis |
 | **The Stall** | [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) | New | JS | 191 pay-per-call data tools (stocks, DeFi, options, crypto, SEC filings, macro) — no API key, USDC micropayments via x402 |
 | **AgentServices** | [vbkotecha/agentservices](https://github.com/vbkotecha/agentservices) | ⭐ 50+ | Python | 54 crypto/market data services (97 endpoints, 37 MCP tools) with x402 on-chain payments |
+| **Equibles** | [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | ⭐ 200+ | C# | SEC filings, fundamentals, 13F and insider data; hosted at [equibles.com/mcp](https://equibles.com/mcp) |
 
 | **Dark-Moon** | [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | | Py | Autonomous AI pentest for web, API, Active Directory and Kubernetes (GPL-3.0). |
 ### 🔒 Security & DevSecOps
