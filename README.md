@@ -219,6 +219,7 @@ Enhance AI capabilities and integrate with ML platforms.
 | Server | Repo | Stars | Lang | Description |
 |--------|------|-------|------|-------------|
 | **OpenAI** | [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) | ⭐ 400+ | TS | Chat with GPT models directly |
+| **QuelLLM MCP** | [MGM-FALCON/quelllm-mcp](https://github.com/MGM-FALCON/quelllm-mcp) | New | Python | Explore local LLMs and estimate VRAM and API vs self-hosted costs; website: [quelllm.fr](https://quelllm.fr/) |
 | **LangFuse** 🎖️ | [langfuse/mcp-server-langfuse](https://github.com/langfuse/langfuse) | ⭐ 300+ | Python | LLM observability and prompt management |
 | **LLM Pulse** 🎖️ | [LLM-Pulse/llmpulse-mcp](https://github.com/LLM-Pulse/llmpulse-mcp) | New | JS | Brand visibility analytics across ChatGPT, Gemini, Perplexity |
 | **Hugging Face** | [evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) | ⭐ 200+ | TS | Access HF Spaces and models |
