@@ -166,6 +166,7 @@ Access the web, scrape content, and search the internet.
 | **Apify** 🎖️ | [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) | ⭐ 300+ | TS | 3,000+ pre-built web scrapers |
 | **Helium** | [connerlambden/helium-mcp](https://github.com/connerlambden/helium-mcp) | New | Python | Real-time news with bias scoring across 5,000+ sources, AI-powered options pricing, and live market data |
 | **2s.io** | [2s-io/sdk](https://github.com/2s-io/sdk) | New | TS | Keyless pay-per-call API for agents: 570+ live endpoints — web answers, patents, case law, KYB & sanctions screening, geo, weather, identity crosswalks, plus a chat/image AI gateway. Pays per request in USDC via x402, no signup or API key |
+| **Anclum** | [wdfdaivd/skilltide-mcp](https://github.com/wdfdaivd/skilltide-mcp) | ⭐ 1 | Py | Read-only search over 7,627 MCP servers, agent skills and 1,675 AI tools by task; every hit links back to its source |
 
 ### 📊 Productivity & Collaboration
 
