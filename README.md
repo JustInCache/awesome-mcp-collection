@@ -148,6 +148,7 @@ Query, manage, and analyze your data.
 | **Neon** 🎖️ | [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) | ⭐ 300+ | TS | Serverless Postgres with branching support |
 | **Prisma** 🎖️ | [prisma/mcp](https://github.com/prisma/mcp) | ⭐ 500+ | TS | Prisma Postgres, migrations, queries |
 | **ClickHouse** 🎖️ | [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) | ⭐ 200+ | Python | Analytics database integration |
+| **DC Hub** | [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) | New | JS | Live data-center site selection: DCPI daily grid-power scores across 300+ markets. Remote MCP https://dchub.cloud/mcp |
 | **Pinecone** 🎖️ | [pinecone-io/assistant-mcp](https://github.com/pinecone-io/assistant-mcp) | ⭐ 300+ | Rust | Vector database for RAG applications |
 | **Qdrant** 🎖️ | [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) | ⭐ 200+ | Python | Vector search and semantic memory |
 
