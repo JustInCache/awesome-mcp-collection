@@ -174,6 +174,7 @@ Connect to your daily tools.
 | Server | Repo | Stars | Lang | Description |
 |--------|------|-------|------|-------------|
 | **Slack** 🎖️ | [modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers) | Official | TS | Messaging, channels, search |
+| **NeverApply** | [kasovy/neverapply-mcp](https://github.com/kasovy/neverapply-mcp) | New | Python | Hosted job search, resume tailor, interview prep, apply-with-approval |
 | **Notion** | [makenotion/notion-mcp-server](https://github.com/notionhq/notion-mcp-server) | ⭐ 800+ | TS | Databases, pages, content management |
 | **Linear** 🎖️ | [linear/mcp-server-linear](https://github.com/linear/linear-mcp-server) | ⭐ 400+ | TS | Issue tracking and project management |
 | **Jira** | [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | ⭐ 500+ | Python | Issues, projects, workflows, JQL search |
